@@ -1,3 +1,3 @@
-https://fc-leeds.github.io/py-tests/README.md
+(CTRL+SHIFT) + P opens commands palette
 
-test
+Rebuild Containers
